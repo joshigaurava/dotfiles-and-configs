@@ -1,0 +1,28 @@
+{
+  "editor.fontFamily": "DejaVu Sans Mono, Consolas, 'Courier New', monospace",
+  "editor.fontSize": 12.5,
+  "editor.lineHeight": 19.5,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.stylelint": "explicit"
+  },
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.editor.restoreViewState": false,
+
+  "search.useIgnoreFiles": true,
+  "search.useGlobalIgnoreFiles": true,
+
+  "settingsSync.keybindingsPerPlatform": false,
+
+  "terminal.integrated.fontFamily": "DejaVu Sans Mono, Consolas, 'Courier New', monospace",
+  "terminal.integrated.fontSize": 12.5,
+  "terminal.integrated.lineHeight": 1.2,
+  "terminal.integrated.cursorStyle": "block",
+  "terminal.integrated.cursorBlinking": true
+}

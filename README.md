@@ -8,4 +8,6 @@ A collection of my personal dotfiles, configuration scripts, and settings for a 
 <p align="center">
   <!-- Zsh -->
   <a href="zsh" title="Zsh"><img width="100" height="100" src="assets/images/icons/zsh.icon.png" alt="Zsh" /></a>
+  <!-- VS Code -->
+  <a href="vscode" title="VS Code"><img width="100" height="100" src="assets/images/icons/vscode.icon.png" alt="VS Code" /></a>
 </p>
