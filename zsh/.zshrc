@@ -41,6 +41,7 @@ alias wslclean='find . -name "*:Zone.Identifier" -type f -delete'
 
 # Git
 autoload -Uz compinit && compinit
+alias pull='git fetch --all && git pull'
 
 # Homebrew
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
