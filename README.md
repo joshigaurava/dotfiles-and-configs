@@ -20,4 +20,6 @@ A collection of my templates, configuration files, dotfiles, and settings for a 
   <a href="stylelint" title="Stylelint"><img width="100" height="100" src="assets/images/icons/stylelint.icon.png" alt="Stylelint" /></a>
   <!-- ESLint -->
   <a href="eslint" title="ESLint"><img width="100" height="100" src="assets/images/icons/eslint.icon.png" alt="ESLint" /></a>
+  <!-- Prettier -->
+  <a href="prettier" title="Prettier"><img width="100" height="100" src="assets/images/icons/prettier.icon.png" alt="Prettier" /></a>
 </p>

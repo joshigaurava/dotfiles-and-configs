@@ -1,0 +1,18 @@
+# Cache directories
+.typescript/
+.vitest/
+
+# Build and dependencies
+dist/
+node_modules/
+
+# No parser available
+.husky/pre-commit
+.nvmrc
+.gitignore
+.prettierignore
+
+# OS
+*:Zone.Identifier
+.DS_Store
+Thumbs.db
