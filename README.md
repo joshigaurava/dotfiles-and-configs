@@ -18,4 +18,6 @@ A collection of my templates, configuration files, dotfiles, and settings for a 
   <a href="typescript" title="TypeScript"><img width="100" height="100" src="assets/images/icons/typescript.icon.png" alt="TypeScript" /></a>
   <!-- Stylelint -->
   <a href="stylelint" title="Stylelint"><img width="100" height="100" src="assets/images/icons/stylelint.icon.png" alt="Stylelint" /></a>
+  <!-- ESLint -->
+  <a href="eslint" title="ESLint"><img width="100" height="100" src="assets/images/icons/eslint.icon.png" alt="ESLint" /></a>
 </p>
