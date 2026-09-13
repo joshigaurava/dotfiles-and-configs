@@ -22,4 +22,6 @@ A collection of my templates, configuration files, dotfiles, and settings for a 
   <a href="eslint" title="ESLint"><img width="100" height="100" src="assets/images/icons/eslint.icon.png" alt="ESLint" /></a>
   <!-- Prettier -->
   <a href="prettier" title="Prettier"><img width="100" height="100" src="assets/images/icons/prettier.icon.png" alt="Prettier" /></a>
+  <!-- lint-staged -->
+  <a href="lint-staged" title="lint-staged"><img width="100" height="100" src="assets/images/icons/lint-staged.icon.png" alt="lint-staged" /></a>
 </p>
