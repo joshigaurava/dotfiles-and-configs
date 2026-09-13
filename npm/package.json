@@ -1,0 +1,40 @@
+{
+  "name": "",
+  "version": "0.0.0-development",
+  "description": "",
+  "keywords": [],
+  "homepage": "",
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "private": true,
+  "author": {
+    "name": "",
+    "url": ""
+  },
+  "license": "",
+  "type": "",
+  "main": "",
+  "files": [],
+  "scripts": {
+    "prepare": "",
+    "pre-commit": "",
+    "dev": "",
+    "build": "",
+    "test": "",
+    "test-watch": "",
+    "test-changed": "",
+    "eslint-check": "",
+    "eslint-fix": "",
+    "stylelint-check": "",
+    "stylelint-fix": "",
+    "prettier-check": "",
+    "prettier-fix": "",
+    "lint-check": "npm run stylelint-check && npm run eslint-check && npm run prettier-check",
+    "lint-fix": "npm run stylelint-fix && npm run eslint-fix && npm run prettier-fix",
+    "release": ""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
