@@ -16,4 +16,6 @@ A collection of my templates, configuration files, dotfiles, and settings for a 
   <a href="npm" title="npm"><img width="100" height="100" src="assets/images/icons/npm.icon.png" alt="npm" /></a>
   <!-- Typescript -->
   <a href="typescript" title="TypeScript"><img width="100" height="100" src="assets/images/icons/typescript.icon.png" alt="TypeScript" /></a>
+  <!-- Stylelint -->
+  <a href="stylelint" title="Stylelint"><img width="100" height="100" src="assets/images/icons/stylelint.icon.png" alt="Stylelint" /></a>
 </p>
