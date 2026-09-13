@@ -1,0 +1,12 @@
+# Cache directories
+.typescript/
+.vitest/
+
+# Build and dependencies
+dist/
+node_modules/
+
+# OS
+*:Zone.Identifier
+.DS_Store
+Thumbs.db
